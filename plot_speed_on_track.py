@@ -1,7 +1,7 @@
 
 import matplotlib as mpl
+import matplotlib.pyplot as plt
 import numpy as np
-from matplotlib import pyplot as plt
 from matplotlib.collections import LineCollection
 
 import fastf1
